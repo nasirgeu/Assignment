@@ -43,8 +43,9 @@ swiggyAssignment
 │                               ├── enums
 │                               │   └── GameStatus.class
 │                               └── interfaces
-│                                   ├── GameObserver.class
-│                                   └── TeamMember.class
+│                               |   ├── GameObserver.class
+│                               |   └── TeamMember.class
+|                               └──  Main.java 
 ├── src
 │   ├── main
 │   │   └── java
@@ -59,8 +60,9 @@ swiggyAssignment
 │   │                   ├── enums
 │   │                   │   └── GameStatus.java
 │   │                   └── interfaces
-│   │                       ├── GameObserver.java
-│   │                       └── TeamMember.java
+│   │                   |   ├── GameObserver.java
+│   │                   |   └── TeamMember.java
+|   |                   └──  Main.java 
 │   └── test
 │       └── java
 │           └── com
